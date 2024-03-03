@@ -1,4 +1,4 @@
-baseURL = 'https://nash-efp.github.io/junki-asano/'
+baseURL = 'https://nash-efp.github.io/junki-asano.github.io/'
 languageCode = 'ja'
 title = 'Home Page'
 theme = "paper"
@@ -42,3 +42,4 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   lang = 'zh-CN'
 
 canonifyurls = true # https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
+publishDir = "docs"
