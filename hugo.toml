@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/nash-efp/junki-asano.github.io'
+baseURL = 'https://nash-efp.github.io/junki-asano/'
 languageCode = 'ja'
 title = 'Home Page'
 theme = "paper"
@@ -18,7 +18,7 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   # rss = true                               # show rss icon
 
   # home page profile
-  avatar = 'https://github.com/nash-efp/junki-asano.github.io/main/data/images/asano_icon.png'                 # gravatar email or image url
+  avatar = './data/images/asano_icon.png'                 # gravatar email or image url
   name = 'junki asano'
   bio = 'Data Scientist / BrainPad.Inc'
 
@@ -40,3 +40,5 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   mapping = 'pathname'
   theme = 'light'
   lang = 'zh-CN'
+
+canonifyurls = true # https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
