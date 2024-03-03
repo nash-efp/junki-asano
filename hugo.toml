@@ -5,8 +5,9 @@ theme = "paper"
 
 disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
-canonifyurls = true # https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
 publishDir = "docs"
+canonifyurls = true # https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
+
 
 [params]
   # color style
@@ -21,7 +22,7 @@ publishDir = "docs"
   # rss = true                               # show rss icon
 
   # home page profile
-  avatar = './data/images/asano_icon.png'                 # gravatar email or image url
+  avatar = './static/asano_icon.png'                 # gravatar email or image url
   name = 'junki asano'
   bio = 'Data Scientist / BrainPad.Inc'
 
