@@ -1,6 +1,7 @@
 +++
-title = 'release'
+title = 'About'
 date = 2024-03-03T13:38:30+09:00
-draft = true
+draft = false
 +++
-# Personal Home Page Released
+# Coming soon
+

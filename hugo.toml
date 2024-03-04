@@ -23,7 +23,7 @@ canonifyurls = true # https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
   # rss = true                               # show rss icon
 
   # home page profile
-  avatar = './static/asano_icon.svg'                 # gravatar email or image url
+  avatar = 'https://pbs.twimg.com/profile_images/1267464591937646592/4P7G4aGc_400x400.jpg'                 # gravatar email or image url
   name = 'junki asano'
   bio = 'Data Scientist / BrainPad.Inc'
 

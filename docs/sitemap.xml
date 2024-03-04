@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nash-efp.github.io/junki-asano.github.io/categories/</loc>
+    <loc>https://nash-efp.github.io/junki-asano.github.io/posts/my-first-post/</loc>
+    <lastmod>2024-03-03T13:38:30+09:00</lastmod>
   </url><url>
     <loc>https://nash-efp.github.io/junki-asano.github.io/</loc>
+    <lastmod>2024-03-03T13:38:30+09:00</lastmod>
+  </url><url>
+    <loc>https://nash-efp.github.io/junki-asano.github.io/posts/</loc>
+    <lastmod>2024-03-03T13:38:30+09:00</lastmod>
+  </url><url>
+    <loc>https://nash-efp.github.io/junki-asano.github.io/categories/</loc>
   </url><url>
     <loc>https://nash-efp.github.io/junki-asano.github.io/tags/</loc>
   </url>
