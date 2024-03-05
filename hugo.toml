@@ -18,8 +18,8 @@ canonifyurls = true # https://qiita.com/ysdyt/items/a581277dd1312a0e83c3
   github = 'nash-efp'                 # github.com/YOUR_GITHUB_ID
   linkedin = 'junki-asano/'             # linkedin.com/in/YOUR_LINKEDIN_ID
   podcast = 'https://shirokane-kougyou.github.io/' # podcast url
-  note = "https://note.com/nash_efp" # note url
-  qiita = "https://qiita.com/nash_efp" # qiita url
+  note = 'https://note.com/nash_efp' # note url
+  qiita = 'https://qiita.com/nash_efp' # qiita url
   # rss = true                               # show rss icon
 
   # home page profile
